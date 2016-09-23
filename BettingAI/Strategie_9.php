@@ -57,7 +57,7 @@ function SpelerEenBeurtEen9_1($RandomGetal,$Hand,$InzetSpelerEenBeurtNul,$InzetS
         return -1;
     }
 }
-
+//
 /*
  * Dit is als je als tweede speler speelt. Je kan hier stoppen gelijkhouden of verhogen.
  * 
