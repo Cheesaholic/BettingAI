@@ -11,6 +11,7 @@ function VoegStrategieToe($PlayerID, $StrategieID) {
 //include 'Strategie_7.php';
 include 'Strategie_6.php';
 include 'Strategie_31.php';
+include 'Strategie_9.php';
 
 
 function Start() {
